@@ -21,6 +21,12 @@ Scatter plot and Maps of COVID-19 World Cases
 
 # Pytorch Predictions of COVID-19
 
+Train and Test Losses
+![](images/Training_test_loss.PNG)
+
+Predicted Cases
+![](images/predicted_cases.PNG)
+
 
 
 
