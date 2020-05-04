@@ -19,4 +19,8 @@ Scatter plot and Maps of COVID-19 World Cases
 
 ![](images/Map%20of%20World%20Cases.PNG)
 
+# Pytorch Predictions of COVID-19
+
+
+
 
